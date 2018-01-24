@@ -8,7 +8,8 @@ $events = json_decode($content,true);
 //$title = $events['payload']['title']
 
 
-$message = $events['payload']['title']
+// $message = $events['payload']['title']
+$message = "มันทรมานในหัวเอยยยยยยย หัวใจจจจจจ"
 $token = 'VG10VkKCRJ2Gy3BFEb6TNJKAvNa8arkXvFLeWjSIzyy';
 
 
