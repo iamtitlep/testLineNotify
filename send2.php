@@ -65,7 +65,7 @@ $data = ['message' => $message];
 $headers = [
     'Accept: */*',
     'Content-Type: application/x-www-form-urlencoded',
-    'Authorization: Bearer 7ZRdYLpa1fUzF1Mk9m4s8jLA9nWiM98VRMcxGmsBveR'
+    'Authorization: Bearer VG10VkKCRJ2Gy3BFEb6TNJKAvNa8arkXvFLeWjSIzyy'
 ];
 // open connection
 $ch = curl_init();
